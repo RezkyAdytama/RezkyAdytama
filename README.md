@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there, Welcome! 👋
-##### 👤 About Me
+#### 👤 About Me
 Saya adalah mahasiswa Sains Data semester 6 di Institut Informatika dan Bisnis Darmajaya. Berfokus pada pengembangan solusi cerdas menggunakan AI, saya memiliki ketertarikan mendalam pada Machine Learning dan Computer Vision untuk menyelesaikan masalah dunia nyata melalui data.
 
 ---
