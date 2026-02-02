@@ -1,9 +1,9 @@
-### Hi there, I'm Muhammad Rezky Adytama! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header" width="100%" />
+  <img src="./img/banner.png" width="100%" />
 </p>
 
+### Hi there, Welcome! 👋
 ##### 👤 About Me
 Saya adalah mahasiswa Sains Data semester 6 di Institut Informatika dan Bisnis Darmajaya. Berfokus pada pengembangan solusi cerdas menggunakan AI, saya memiliki ketertarikan mendalam pada Machine Learning dan Computer Vision untuk menyelesaikan masalah dunia nyata melalui data.
 
