@@ -11,7 +11,7 @@ Saya adalah mahasiswa Sains Data semester 6 di Institut Informatika dan Bisnis D
 
 #### Things I Code With
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="filter: grayscale(100%);"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-7B1FA2?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
