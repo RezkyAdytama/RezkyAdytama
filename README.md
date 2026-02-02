@@ -41,21 +41,37 @@ I am a 6th-semester Data Science student at Darmajaya Institute of Informatics a
 </p>
 
 #### Pinned Repositories
-*Berikut adalah beberapa proyek unggulan saya dalam bidang ML & Computer Vision:*
+Here are some of my featured projects in the fields of Machine Learning & Computer Vision:
 
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **Object Detection Model** | Python, OpenCV | [View Repo](#) |
-| **Sentiment Analysis AI** | Scikit-Learn, Colab | [View Repo](#) |
-| **Face Recognition App** | Deep Learning, PyTorch | [View Repo](#) |
+<table style="width: 100%; border-collapse: collapse; font-size:14px;">
+  <thead>
+    <tr style="background-color: #6886FF;">
+      <th style="width: 40%; text-align: left; padding: 10px; color: white;">Project Name</th>
+      <th style="width: 50%; text-align: left; padding: 10px; color: white;">Tech Stack</th>
+      <th style="width: 20%; text-align: center; padding: 10px; color: white;">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;"><b>Object Detection Model</b></td>
+      <td style="padding: 10px;">Python, OpenCV, YOLOv8</td>
+      <td style="padding: 10px; text-align: center;"><a href="#">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><b>Sentiment Analysis AI</b></td>
+      <td style="padding: 10px;">Scikit-Learn, NLTK, Google Colab</td>
+      <td style="padding: 10px; text-align: center;"><a href="#">View Repo</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><b>Face Recognition App</b></td>
+      <td style="padding: 10px;">Deep Learning, PyTorch, MediaPipe</td>
+      <td style="padding: 10px; text-align: center;"><a href="#">View Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <img src="./img/line.png" width="100%" />
 </p>
 
-#### Let's Connect
-<p align="center">
-<a href="https://linkedin.com/in/[USERNAME-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[NAMA-KAMU]" height="30" width="40" /></a>
-<a href="https://instagram.com/[USERNAME-INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[NAMA-KAMU]" height="30" width="40" /></a>
-<a href="mailto:email-kamu@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
-</p>
+<br />
