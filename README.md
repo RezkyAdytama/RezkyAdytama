@@ -3,11 +3,13 @@
   <img src="./img/banner.png" width="100%" />
 </p>
 
-### Hi there, Welcome! 👋
+### Hi there, Welcome!
 #### About Me
-Saya adalah mahasiswa Sains Data semester 6 di Institut Informatika dan Bisnis Darmajaya. Berfokus pada pengembangan solusi cerdas menggunakan AI, saya memiliki ketertarikan mendalam pada Machine Learning dan Computer Vision untuk menyelesaikan masalah dunia nyata melalui data.
+I am a 6th-semester Data Science student at Darmajaya Institute of Informatics and Business. Focused on developing intelligent AI solutions, I have a deep interest in Machine Learning and Computer Vision to solve real-world problems through data-driven insights.
 
----
+<p align="center">
+  <img src="./img/line.png" width="100%" />
+</p>
 
 #### Things I Code With
 <p align="left">
