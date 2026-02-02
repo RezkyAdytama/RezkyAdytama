@@ -36,10 +36,6 @@ I am a 6th-semester Data Science student at Darmajaya Institute of Informatics a
   <img src="./img/line.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/[USERNAME-KAMU]/[USERNAME-KAMU]/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 #### Pinned Repositories
 Here are some of my featured projects in the fields of Machine Learning & Computer Vision:
 
@@ -75,3 +71,11 @@ Here are some of my featured projects in the fields of Machine Learning & Comput
 </p>
 
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RezkyAdytama/RezkyAdytama/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RezkyAdytama/RezkyAdytama/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RezkyAdytama/RezkyAdytama/output/pacman-contribution-graph.svg">
+</picture>
+
+###
