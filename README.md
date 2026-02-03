@@ -76,7 +76,8 @@ Here are some of my featured projects in the fields of Machine Learning & Comput
         <p align="left">
           <img src="https://img.shields.io/badge/Python-3.x-yellow" />
           <img src="https://img.shields.io/badge/Deep-Learning-blue" />
-          <img src="https://img.shields.io/badge/Computer-Vision-green" />
+          <img src="https://img.shields.io/badge/Medical-Imaging-green" />
+          <img src="https://img.shields.io/badge/Model-LSTM-red" />
         </p>
       </td>
       <td style="padding: 10px; text-align: center;"><a href="https://github.com/RezkyAdytama/Early-Detection-Brain-Tumor-using-LSTM">View Repo</a></td>
