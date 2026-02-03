@@ -49,19 +49,37 @@ Here are some of my featured projects in the fields of Machine Learning & Comput
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 10px;"><b>Object Detection Model</b></td>
-      <td style="padding: 10px;">Python, OpenCV, YOLOv8</td>
-      <td style="padding: 10px; text-align: center;"><a href="#">View Repo</a></td>
+      <td style="padding: 10px;"><b>Automotive Sales Forecasting using Weighted Ensemble Model</b></td>
+      <td style="padding: 10px;">
+        <p align="left">
+          <img src="https://img.shields.io/badge/Python-3.x-yellow" />
+          <img src="https://img.shields.io/badge/Machine-Learning-blue" />
+          <img src="https://img.shields.io/badge/Ensemble-Learning-green" />
+        </p>
+      </td>
+      <td style="padding: 10px; text-align: center;"><a href="https://github.com/RezkyAdytama/Automotive-Sales-Forecasting-using-Weighted-Ensemble-Model">View Repo</a></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><b>Sentiment Analysis AI</b></td>
-      <td style="padding: 10px;">Scikit-Learn, NLTK, Google Colab</td>
-      <td style="padding: 10px; text-align: center;"><a href="#">View Repo</a></td>
+      <td style="padding: 10px;"><b>Real-time Classroom Attendance System using Face Recognition</b></td>
+      <td style="padding: 10px;">
+        <p align="left">
+          <img src="https://img.shields.io/badge/Python-3.x-yellow" />
+          <img src="https://img.shields.io/badge/Deep-Learning-blue" />
+          <img src="https://img.shields.io/badge/Computer-Vision-green" />
+        </p>
+      </td>
+      <td style="padding: 10px; text-align: center;"><a href="https://github.com/RezkyAdytama/Real-time-Classroom-Attendance-System-using-Face-Recognition">View Repo</a></td>
     </tr>
     <tr>
-      <td style="padding: 10px;"><b>Face Recognition App</b></td>
-      <td style="padding: 10px;">Deep Learning, PyTorch, MediaPipe</td>
-      <td style="padding: 10px; text-align: center;"><a href="#">View Repo</a></td>
+      <td style="padding: 10px;"><b>Early Detection Brain Tumor using LSTM</b></td>
+      <td style="padding: 10px;">
+        <p align="left">
+          <img src="https://img.shields.io/badge/Python-3.x-yellow" />
+          <img src="https://img.shields.io/badge/Deep-Learning-blue" />
+          <img src="https://img.shields.io/badge/Computer-Vision-green" />
+        </p>
+      </td>
+      <td style="padding: 10px; text-align: center;"><a href="https://github.com/RezkyAdytama/Early-Detection-Brain-Tumor-using-LSTM">View Repo</a></td>
     </tr>
   </tbody>
 </table>
