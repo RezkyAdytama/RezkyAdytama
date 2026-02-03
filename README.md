@@ -5,7 +5,7 @@
 
 ### Hi there, Welcome! 
 #### About Me
-I am a 6th-semester Data Science student at Darmajaya Institute of Informatics and Business. Focused on developing intelligent AI solutions, I have a deep interest in Machine Learning and Computer Vision to solve real-world problems through data-driven insights.
+I am a 6th-semester Data Science student at Institute of Informatics and Business Darmajaya. Focused on developing intelligent AI solutions, I have a deep interest in Machine Learning and Computer Vision to solve real-world problems through data-driven insights.
 
 <p align="center">
   <img src="./img/line.png" width="100%" />
