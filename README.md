@@ -24,12 +24,12 @@ I am a 6th-semester Data Science student at Darmajaya Institute of Informatics a
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F89C1C?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
 #### I'm Learning
 <p align="left">
     <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/HuggingFace-F89C1C?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
 <p align="center">
